@@ -1,5 +1,5 @@
 # Investigate a Dataset: TMDB 5000 Movie Dataset
-## The Goal of this Analysis
+## The Goal 
 The goal of this project is to investigate the dataset through implementing the Data Analysis Process. This will help answer preposed questions and understand the common patterns within the dataset.   
 
 ## The Dataset
